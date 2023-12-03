@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3MyJBdBBcfpKI47m3lxGfyabAVetwbjW6xmdMsizRWfhZ+4LjdCJrzw0ard8VdTnX9+YNWrF8q46CcvKCWllA==",
+  "success": true,
+  "projectFilePath": "D:\\Suli\\Training\\TrainingManager\\TrainingManager\\TrainingManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\papiduuu\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
